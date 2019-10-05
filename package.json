@@ -1,6 +1,9 @@
 {
   "name": "test",
-  "version": "10.16.0",
+  "version": "1.0.0",
+  "engines":{
+    "node": "10.16.0"
+  }
   "description": "simple web app",
   "main": "hello.js",
   "scripts": {
